@@ -7,5 +7,5 @@
 # lerna files
 /lerna-debug.log
 
-/package-lock.json
+# /package-lock.json
 /yarn.lock
